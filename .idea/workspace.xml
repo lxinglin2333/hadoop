@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="36bac2c3-7cc5-455c-a611-109418686860" name="Default Changelist" comment="hadoop">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hadoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/HDFSClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/src/main/java/com/lxl/hdfs/HdfsClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/target/classes/com/lxl/hdfs/HdfsClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hdfsApi/HDFSClient/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combineTextInputforamt/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combineTextInputforamt/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combineTextInputforamt/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combiner/WordCountCombiner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combiner/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combiner/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/combiner/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/mywritable/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/mywritable/FlowDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/mywritable/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/mywritable/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/outputformat/LogDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/outputformat/LogMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/outputformat/LogOutputFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/outputformat/LogRecordWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/outputformat/LogReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner/WordCountReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner2/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner2/FlowDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner2/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner2/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitioner2/ProvincePartitioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitionerandwritableComparable/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitionerandwritableComparable/FlowDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitionerandwritableComparable/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitionerandwritableComparable/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/partitionerandwritableComparable/ProvincePartitioner2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/reduceJoin/TableBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/reduceJoin/TableDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/reduceJoin/TableMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/reduceJoin/TableReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount/WordCountReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount2/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount2/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcount2/WordCountReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcounthdfs/WordCountDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcounthdfs/WordCountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/wordcounthdfs/WordCountReduce.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/writableComparable/FlowBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/writableComparable/FlowDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/writableComparable/FlowMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/java/com/lxl/mapreduce/writableComparable/FlowReducer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/resources/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/resources/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/resources/mapred-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/src/main/resources/yarn-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combineTextInputforamt/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combineTextInputforamt/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combineTextInputforamt/WordCountReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combiner/WordCountCombiner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combiner/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combiner/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/combiner/WordCountReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/mywritable/FlowBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/mywritable/FlowDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/mywritable/FlowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/mywritable/FlowReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/outputformat/LogDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/outputformat/LogMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/outputformat/LogOutputFormat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/outputformat/LogRecordWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/outputformat/LogReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner/WordCountReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner2/FlowBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner2/FlowDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner2/FlowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner2/FlowReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitioner2/ProvincePartitioner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitionerandwritableComparable/FlowBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitionerandwritableComparable/FlowDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitionerandwritableComparable/FlowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitionerandwritableComparable/FlowReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/partitionerandwritableComparable/ProvincePartitioner2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/reduceJoin/TableBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/reduceJoin/TableDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/reduceJoin/TableMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/reduceJoin/TableReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount/WordCountReduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount2/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount2/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount2/WordCountReduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount3/WordCount$Map.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount3/WordCount$Reduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcount3/WordCount.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcounthdfs/WordCountDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcounthdfs/WordCountMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/wordcounthdfs/WordCountReduce.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/writableComparable/FlowBean.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/writableComparable/FlowDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/writableComparable/FlowMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/com/lxl/mapreduce/writableComparable/FlowReducer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/core-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/hdfs-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/mapred-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/classes/yarn-site.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/mrDemo-1.0-SNAPSHOT-jar-with-dependencies.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mr/mrDemo/target/mrDemo-1.0-SNAPSHOT.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Program Files\apache-maven-3.5.2\maven-repo" />
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="D:\Program Files\apache-maven-3.5.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Djava.net.preferIPv4Stack=true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="2XstnC0a2Q63qrnOOFeVT8ZsLV2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../spark" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36bac2c3-7cc5-455c-a611-109418686860" name="Default Changelist" comment="" />
+      <created>1699429779691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699429779691</updated>
+      <workItem from="1699429780948" duration="215000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hadoop" />
+    <option name="LAST_COMMIT_MESSAGE" value="hadoop" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1699429995191">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1699429995191" />
+  </component>
+</project>
